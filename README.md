@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kiran Kumar Rega</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Practicing ReactJs**
+- 🔭 I’m currently working on **Practicing ReactJs with Redux**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **DSA in JAVA with @kunal**
 
 - 💬 Ask me about **React**
 
