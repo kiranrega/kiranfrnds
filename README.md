@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kiran Kumar Rega</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Practicing ReactJs with Redux**
+- 🔭 I’m currently working on **Practising ReactJs with Redux**
 
-- 🌱 I’m currently learning **DSA in JAVA with @kunal**
+<!-- - 🌱 I’m currently learning **DSA in JAVA with @kunal** -->
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, JavaScript, HTML, Python**
 
 - 📫 How to reach me **kiran.minpro@gmail.com**
 
