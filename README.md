@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as React JS Developer<br>👯 I’m looking to collaborate on React OSS projects<br>🤝 I’m looking for help with React and JavaScript<br>🌱 I’m currently learning DSA in JavaScript<br>💬 Ask me about Technology, React, JavaScript <br>⚡ Fun fact 
+🔭 I’m currently working as React JS Developer<br>👯 I’m looking to collaborate on React OSS projects<br>🤝 I’m looking for help with React and JavaScript<br>🌱 I’m currently learning DSA in JavaScript<br>💬 Ask me about Technology, React, JavaScript <br>⚡<br> Currently Learning React Native <br>
 
 
 ## 🌐 Socials:
